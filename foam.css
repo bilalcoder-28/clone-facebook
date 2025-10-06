@@ -284,7 +284,19 @@ body {
     line-height: 20px;
     text-decoration: none;
 }
-
+@media(max-width:400px){
+  .box1{
+     width:auto;
+  }
+  .inputs{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+  .f-n,.s-n {
+   width: 140px;    
+  }
+}
 
 
 

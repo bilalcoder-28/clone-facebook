@@ -72,6 +72,7 @@ form {
   border: none;
   border-radius: 6px;
   cursor: pointer;
+  text-decoration: none;
 }
 .btn:hover {
   background: #005ce6;
